@@ -1,4 +1,3 @@
-ctualizar el README.md en la raíz del repositorio con el resumen de ambas partes:
 # Post-contenido — Unidad 1: Fundamentos de la Web
 
 ## Descripción
