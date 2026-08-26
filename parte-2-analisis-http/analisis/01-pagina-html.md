@@ -13,10 +13,10 @@
 | Accept | [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7] |
 
 ## Headers de Response
-| Header | Valor | Significado |
-|--------|-------|-------------|
-| Content-Type | [No aparece] | [Indica el tipo de contenido que devuelve el servidor, por ejemplo text/html para una página HTML.] |
-| Cache-Control | [No aparece] | [Especifica las reglas que indican a navegadores y servidores intermedios cómo y durante cuánto tiempo pueden almacenar en caché la respuesta.] |
+| Header       | Valor         | Significado |
+|--------      |-------       |-------------|
+| Content-Type | [No aparece] | [Indica el tipo de contenido que  devuelve el servidor, por ejemplo text/html para una página HTML.] |
+| Cache-Control| [No aparece] | [Especifica las reglas que indican a navegadores y servidores intermedios cómo y durante cuánto tiempo pueden almacenar en caché la respuesta.] |
 
 ## Tiempos de carga
 | Fase | Tiempo (ms) |
